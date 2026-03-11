@@ -22,3 +22,8 @@ git branch -a
 
 # to fetch all branch from browser to loca 
 git fetch
+
+# switch to other branch
+git checkout <branch_name>
+    To verify use 
+    git branch -a
